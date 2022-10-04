@@ -6,10 +6,10 @@ _**Bu bot, gruplarda 10.000'e kadar üyeden bahsedebilir ve kanallarda 200'e kad
 ### 🗂 Bilgi
 - Dil: Python.
 - Telgraf Kütüphanesi: Telethon & Pyrogram İlk Ve Tek.
-- [Developer](https://t.me/duyguszadam)✨
+- [Developer](https://t.me/Serserizarog)✨
 
 ### 🚀 Deploy to heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ali930ben/aynurbot2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Leronbey1/aynurbot2)]
 
 ### 🎯 Bana Destek Olmak İstermisin Aşğıdaki Bağlantıdan Bağış Yapa Bilirsin
 
